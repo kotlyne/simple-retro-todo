@@ -1,6 +1,7 @@
 # simple-retro-todo
 
 A simple todo demo with retro interface.
+
 Vue3 + TypeScript + Vite. For practice purpose, may have bugs.
 
 # Features
@@ -36,3 +37,8 @@ pnpm lint
 
 # Related Project
 - [System.css](https://github.com/sakofchit/system.css)
+
+
+# Screenshot
+<img src="./Screenshot/CN.png" alt="CN" width="200"/>
+<img src="./Screenshot/EN.png" alt="EN" width="200"/>
