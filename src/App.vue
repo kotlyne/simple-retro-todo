@@ -97,7 +97,7 @@ onMounted(() => {
 
   <div class="window">
     <div class="title-bar">
-      <button class="close" @click="switchLocale">CN</button>
+      <button class="close" @click="switchLocale">{{ locale }}</button>
       <h1 class="title">{{ $t('appTitle') }}</h1>
       <button class="resize"></button>
     </div>
